@@ -1,0 +1,125 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\שולמית\\הנדסאים\\design pattern\\Factory\\Factory\\ProgramFiles.csproj": {}
+  },
+  "projects": {
+    "D:\\שולמית\\הנדסאים\\design pattern\\Factory\\Factory\\ProgramFiles.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\שולמית\\הנדסאים\\design pattern\\Factory\\Factory\\ProgramFiles.csproj",
+        "projectName": "ProgramFiles",
+        "projectPath": "D:\\שולמית\\הנדסאים\\design pattern\\Factory\\Factory\\ProgramFiles.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "D:\\שולמית\\הנדסאים\\design pattern\\Factory\\Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\שולמית\\הנדסאים\\design pattern\\Factory\\Factory_Method\\Factory_Method.csproj": {
+                "projectPath": "D:\\שולמית\\הנדסאים\\design pattern\\Factory\\Factory_Method\\Factory_Method.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\שולמית\\הנדסאים\\design pattern\\Factory\\Factory_Method\\Factory_Method.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\שולמית\\הנדסאים\\design pattern\\Factory\\Factory_Method\\Factory_Method.csproj",
+        "projectName": "Factory_Method",
+        "projectPath": "D:\\שולמית\\הנדסאים\\design pattern\\Factory\\Factory_Method\\Factory_Method.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "D:\\שולמית\\הנדסאים\\design pattern\\Factory\\Factory_Method\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

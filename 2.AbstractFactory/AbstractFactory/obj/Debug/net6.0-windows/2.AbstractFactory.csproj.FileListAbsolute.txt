@@ -1,0 +1,17 @@
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\bin\Debug\net6.0-windows\2.AbstractFactory.exe
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\bin\Debug\net6.0-windows\2.AbstractFactory.deps.json
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\bin\Debug\net6.0-windows\2.AbstractFactory.runtimeconfig.json
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\bin\Debug\net6.0-windows\2.AbstractFactory.dll
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\bin\Debug\net6.0-windows\2.AbstractFactory.pdb
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\obj\Debug\net6.0-windows\2.AbstractFactory.csproj.AssemblyReference.cache
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\obj\Debug\net6.0-windows\AbstractFactory.Form1.resources
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\obj\Debug\net6.0-windows\2.AbstractFactory.csproj.GenerateResource.cache
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\obj\Debug\net6.0-windows\2.AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\obj\Debug\net6.0-windows\2.AbstractFactory.AssemblyInfoInputs.cache
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\obj\Debug\net6.0-windows\2.AbstractFactory.AssemblyInfo.cs
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\obj\Debug\net6.0-windows\2.AbstractFactory.csproj.CoreCompileInputs.cache
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\obj\Debug\net6.0-windows\2.AbstractFactory.dll
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\obj\Debug\net6.0-windows\refint\2.AbstractFactory.dll
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\obj\Debug\net6.0-windows\2.AbstractFactory.pdb
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\obj\Debug\net6.0-windows\2.AbstractFactory.genruntimeconfig.cache
+D:\שולמית\הנדסאים\design pattern\תרגול\2.AbstractFactory\AbstractFactory\obj\Debug\net6.0-windows\ref\2.AbstractFactory.dll
